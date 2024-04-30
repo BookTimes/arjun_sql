@@ -1,0 +1,6 @@
+nano ~/.zshrc
+alias msql='/path/to/mysql'
+which mysql
+Save and close the file (in Nano, you can do this by pressing Ctrl + X, then Y to confirm, and Enter to save).
+source ~/.zshrc
+
